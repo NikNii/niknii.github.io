@@ -26,5 +26,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://niknii.github.io"
+  "homepage": "https://niknii.github.io/weather-web-app"
 }
